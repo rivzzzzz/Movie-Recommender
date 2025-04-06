@@ -18,4 +18,4 @@ class CFG:
     temperature = 0.85
     candidate_pool_size = 100
     patience = 4
-    save_model_path = "lstm_starter_v1/state.pth"
+    save_model_path = "results/state.pth"
